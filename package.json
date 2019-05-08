@@ -6,6 +6,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "johnny-five": "^1.0.0",
+    "mongodb": "3.2.3",
+    "mongoose": "4.11.3",
     "path": "^0.12.7",
     "serialport": "^7.1.4",
     "socket.io": "^2.2.0",
